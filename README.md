@@ -5,7 +5,7 @@
 
 Submitted by: **Your Name Here**
 
-Time spent: *12* hours spent in total
+Time spent: *XX* hours spent in total
 
 ## User Stories
 
